@@ -1,0 +1,12 @@
+{
+    "name": "asus/tugas2pbwl-kosma",
+    "description": "Pemrograman Laravel SI4",
+    "type": "project",
+    "authors": [
+        {
+            "name": "hendrik-koto",
+            "email": "hendrixkoto123@gmail.com"
+        }
+    ],
+    "require": {}
+}
